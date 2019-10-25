@@ -32,8 +32,8 @@ This code helps you either choose to encrypt a message or decrypt a message that
 ## Organization
 Used Trello to keep track of the tasks done and those that were pending.
 
-Inside the repository there is a folder for the project called project1.
-Inside "project1" folder, there are two files, the first of is a jupyter notebook file for the code. The second one is a text file with the whole code.
+Inside the repository there is a folder for the project called "Alieldin_Ramadan".
+Inside "Alieldin_Ramadan" folder, there are two files, the first of is a jupyter notebook file for the code. The second one is a text file with the whole code.
 
 ## Links
 
