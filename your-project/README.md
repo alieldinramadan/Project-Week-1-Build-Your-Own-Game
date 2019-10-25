@@ -13,21 +13,35 @@
 - [Links](#links)
 
 ## Project Description
-
+This code helps you either choose to encrypt a message or decrypt a message that was encrypted using the same interface/code.
 
 ## Rules
-Briefly describe the rules of the game.
+
+- Answer the first question to choose either to encrypt or decrypt a message.
+- If you enter a wrong input (encrypt/decrypt) you have only four trials after which you will have to run the code again.
+- Type in your message and press 'enter' and the interface will give you either the encrypted message
+   or the decrypted message depending on which one you chose.
+- The interface will terminate after your message is encrypted/decrypted.
+   To encrypt/decrypt another message, you will have to run the code again.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- Researching the topic.
+- Tried dictionaries but it got confusing.
+- Read about some useful functions in python.
+- Used these functions to try to encrypt and decrypt texts.
+- Troubleshooting the code till it started working.
+- Tried to optimize it and make it a little bit more interactive.
+- Tested the code several times to make sure it is working.
+- Added introduction and instructions on how to use the code.
+- Made the texts a little bit more colorful. 
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+Used Trello to keep track of the tasks done and those that were pending.
 
-What does your repository look like? Explain your folder and file structure.
+Inside the repository there is a folder for the project.
+Inside the project folder, there is a jupyter notebook file for the code and also a text file with the whole code.
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/alieldinramadan/Project-Week-1-Build-Your-Own-Game)  
 [Slides](https://slides.com/)  
