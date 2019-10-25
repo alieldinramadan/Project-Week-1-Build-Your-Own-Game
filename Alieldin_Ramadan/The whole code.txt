@@ -4,8 +4,8 @@ print("\033[1m"+"\033[91m"+"Please follow the instructions below:")
 print("- Answer the first question to choose either to encrypt or decrypt a message.")
 print("- If you enter a wrong input (encrypt/decrypt) you have only four trials after which you will have to run the code again.")
 print("- Type in your message and press 'enter' and the interface will give you either the encrypted message\n   or the decrypted message depending on which one you chose.")
-print("- The interface will terminate after your message is encrypted/decrypted.\n   To encrypt/decrypt another message, you will have to run the code again."+"\033[0m")
-print("\033[1m"+"\nWith that being said, let's begin :)\n"+"\033[0m")
+print("- The interface will terminate after your message is encrypted/decrypted.\n- To encrypt/decrypt another message, you will have to run the code again."+"\033[0m")
+print("\033[1m"+"\nThat being said, let's begin :)\n"+"\033[0m")
 
 choice = input("Do you want to encrypt or decrypt a message?\nPlease entre ""\033[1m" + "'encrypt' or 'decrypt': "+"\033[0m")
 if choice == 'encrypt':

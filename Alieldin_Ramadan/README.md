@@ -26,7 +26,7 @@ This code helps you either choose to encrypt a message or decrypt a message that
 ## Workflow
 - First the code displays a welcome message and instructions for the user on how to use the code/interface.
 - Then the code prints out a question for the user to ask if the user wants to encrypt or decrypt a message.
-- After the user selects which operation he wants to perform, the code then asks the user for the message that they want to encypt or the code that they want to decrypt.
+- After the user selects which operation he wants to perform, the code then asks the user for the message that they want to encrypt or the code that they want to decrypt.
 - As soon as the user input any of the two, the code then displays the output.
 
 ## Organization
@@ -38,5 +38,5 @@ Inside "Alieldin_Ramadan" folder, there are two files, the first of is a jupyter
 ## Links
 
 [Repository](https://github.com/alieldinramadan/Project-Week-1-Build-Your-Own-Game)  
-[Slides](https://slides.com/)  
+[Slides](https://docs.google.com/presentation/d/1ODlrJuybOijbbPAzoBGn1r9OkucVXeyYUzUdHFeP14Q/edit#slide=id.p)  
 [Trello](https://trello.com/b/W43IFGsk/project1)  
