@@ -16,7 +16,6 @@
 This code helps you either choose to encrypt a message or decrypt a message that was encrypted using the same interface/code.
 
 ## Rules
-
 - Answer the first question to choose either to encrypt or decrypt a message.
 - If you enter a wrong input (encrypt/decrypt) you have only four trials after which you will have to run the code again.
 - Type in your message and press 'enter' and the interface will give you either the encrypted message
@@ -25,21 +24,16 @@ This code helps you either choose to encrypt a message or decrypt a message that
    To encrypt/decrypt another message, you will have to run the code again.
 
 ## Workflow
-- Researching the topic.
-- Tried dictionaries but it got confusing.
-- Read about some useful functions in python.
-- Used these functions to try to encrypt and decrypt texts.
-- Troubleshooting the code till it started working.
-- Tried to optimize it and make it a little bit more interactive.
-- Tested the code several times to make sure it is working.
-- Added introduction and instructions on how to use the code.
-- Made the texts a little bit more colorful. 
+- First the code displays a welcome message and instructions for the user on how to use the code/interface.
+- Then the code prints out a question for the user to ask if the user wants to encrypt or decrypt a message.
+- After the user selects which operation he wants to perform, the code then asks the user for the message that they want to encypt or the code that they want to decrypt.
+- As soon as the user input any of the two, the code then displays the output.
 
 ## Organization
 Used Trello to keep track of the tasks done and those that were pending.
 
-Inside the repository there is a folder for the project.
-Inside the project folder, there is a jupyter notebook file for the code and also a text file with the whole code.
+Inside the repository there is a folder for the project called project1.
+Inside "project1" folder, there are two files, the first of is a jupyter notebook file for the code. The second one is a text file with the whole code.
 
 ## Links
 
