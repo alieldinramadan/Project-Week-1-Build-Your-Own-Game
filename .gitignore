@@ -145,6 +145,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-Notes.txt
+decrypt.ipynb
+encrypt.ipynb
+troubleshooting_JointCode.ipynb
 
 # End of https://www.gitignore.io/api/python,windows,jupyternotebooks
