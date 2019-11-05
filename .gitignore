@@ -145,6 +145,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+The whole code.txt
 decrypt.ipynb
 encrypt.ipynb
 troubleshooting_JointCode.ipynb
